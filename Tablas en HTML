@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+          <H3>Ejercicio 02/2 - Tablas en HTML</H3>
+          <table>
+
+            <tr>
+                <th>Titulo</th>
+                <th>Autor</th>
+                <th>Año de Publicacion</th>
+                <th>Enlace Amazon</th>
+
+            </tr>
+            <tr>
+                <td>Elon Musk</td>
+                <td>Ashlee Vange</td>
+                <td>2016</td>
+                <td><a href="https://www.amazon.com/-/es/Ashlee-Vance/dp/8499425194">Compra en Amazon</a></td>
+            </tr>
+
+            <tr>
+                <td>El poder de la mente subconsciente</td>
+                <td>Joseph Murphy</td>
+                <td>2018</td>
+                <td><a href="https://www.amazon.com/-/es/Joseph-Murphy/dp/9562914348/ref=sr_1_1?keywords=el+poder+de+la+mente+subconsciente&qid=1683000734&s=books&sprefix=el+poder+de+la+mente%2Cstripbooks-intl-ship%2C147&sr=1-1">Compra en Amazon</a></td>
+            </tr>
+
+            <tr>
+                <td>los 7 habitos de la gente altamente efectiva</td>
+                <td>Stephen R. Covey</td>
+                <td>1990</td>
+                <td><a href="https://www.amazon.com/-/es/Stephen-R-Covey/dp/6079377063/ref=sr_1_1?crid=AIJKRCDXVRN4&keywords=los+7+habitos+de+la+gente+altamente+efectiva&qid=1683000689&s=books&sprefix=los+7+habitos%2Cstripbooks-intl-ship%2C241&sr=1-1">Compra en Amazon</a></td>
+            </tr>
+
+          </table>
+    </body>
+</html>
